@@ -26,3 +26,5 @@ It correctly bundles React in production mode and optimizes the build for the be
 
 The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
+
+Note: the [backend](https://github.com/zahidkhawaja/NFT-Classifier-Backend) was deployed on Heroku's free plan, so the first API call might be delayed if the server has to wake back up. Subsequent calls should be fast. Stay tuned for updates.
