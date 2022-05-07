@@ -80,6 +80,10 @@ button:hover {
   padding: 20px 20px 5px 20px;
 }
 
+.results-block:hover {
+  opacity: 0.95;
+}
+
 /* Mobile optimization */
 @media (max-height: 915px) and (max-width: 415px) {
   input {
