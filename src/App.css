@@ -74,7 +74,7 @@ button:hover {
 @media (max-height: 915px) and (max-width: 415px) {
   input {
     overflow: hidden;
-    width: 85%;
+    width: 90%;
   }
   .App-header {
     font-size: calc(6px + 2vmin);
