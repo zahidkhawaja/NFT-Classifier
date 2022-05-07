@@ -53,8 +53,8 @@ function App() {
         <button onClick = {handleSubmission}>Upload</button>
       </div>
       </div>
+      {loading ? <CircularProgress /> : null}
       <div className = "result-section">
-        {loading ? <CircularProgress /> : null}
         {resultReady ? <div className = "results-block"> <img src = {previewImage} className = "preview" alt = "NFT"></img> <p>{result.success}</p></div> : null} 
       </div>
     </div>
