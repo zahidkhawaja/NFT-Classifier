@@ -91,4 +91,10 @@ button:hover {
   .App-header {
     font-size: calc(6px + 2vmin);
   }
+  .preview {
+    width: 200px;
+  }
+  .results-block {
+    width: 225px;
+  }
 }
