@@ -76,6 +76,7 @@ button:hover {
     overflow: hidden;
     width: 85%;
     font-size: 18px;
+    padding: 30px;
   }
   .App-header {
     font-size: calc(6px + 2vmin);
