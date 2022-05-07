@@ -78,7 +78,6 @@ button:hover {
   border-radius: 10px;
   width: 275px;
   padding: 20px 20px 5px 20px;
-  margin-bottom: 10px;
 }
 
 /* Mobile optimization */
@@ -92,9 +91,9 @@ button:hover {
     font-size: calc(6px + 2vmin);
   }
   .preview {
-    width: 200px;
+    width: 215px;
   }
   .results-block {
-    width: 225px;
+    width: 240px;
   }
 }
