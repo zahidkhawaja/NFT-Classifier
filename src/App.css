@@ -62,12 +62,22 @@ button:hover {
 
 .result-section {
   font-size: 22px;
+  font-weight: 500;
   text-transform: uppercase;
-  color: black;
+  color: rgba(0, 0, 0, 0.712);
+  display: flex;
+  justify-content: center;
 }
 
 .preview {
   width: 250px;
+}
+
+.results-block {
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  border-radius: 10px;
+  width: 275px;
+  padding: 25px 25px 5px 25px;
 }
 
 /* Mobile optimization */
