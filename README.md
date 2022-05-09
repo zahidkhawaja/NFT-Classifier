@@ -1,6 +1,6 @@
 # NFT Classifier
 
-This app uses a classification ML model I trained to identify the top 3 NFTs on OpenSea: CryptoPunks, Bored Ape Yacht Club, and Mutant Ape Yacht Club. Simply upload an image to get a result. More NFTs will be supported soon!
+This app uses a classification ML model I trained to identify these popular NFTs on OpenSea: CryptoPunks, Bored Ape Yacht Club, Mutant Ape Yacht Club, Cool Cats, and mfers. Simply upload an image to get a result. More NFTs will be supported soon!
 
 ## Backend API
 
